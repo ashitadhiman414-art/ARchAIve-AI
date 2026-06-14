@@ -39,7 +39,7 @@ Image Recognition → Heritage Database → AI Assistant → User Experience Lay
 ## Demo Video
 
 "C:\Users\Ashita\Downloads\ARchAIve AI.mp4"
-
+Demo video also provided in the release section.
 ## Future Enhancements
 
 - Multi-language support
