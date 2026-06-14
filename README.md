@@ -46,6 +46,9 @@ Image Recognition → Heritage Database → AI Assistant → User Experience Lay
 - AI voice conversations
 - Cloud synchronization
 - 3D heritage reconstruction
+ ## Download APK
+
+The latest APK can be downloaded from the Releases section.
 
 ## Team
 
