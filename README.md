@@ -1,5 +1,12 @@
 # ARchAIve-AI
 AI-Powered Augmented Reality Heritage Exploration Agent built with Unity and AR Foundation.
+<p align="center">
+  <img src="assets/archaive-banner.svg" alt="archAIve AI — AI-powered AR heritage exploration platform" width="100%">
+</p>
+
+<h1 align="center">archAIve AI</h1>
+<p align="center">AI-powered Augmented Reality heritage exploration platform</p>
+
 # archAIve AI
 
 ## Where Heritage Meets Intelligence
