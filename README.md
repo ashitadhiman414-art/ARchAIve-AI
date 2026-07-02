@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="archaive-banner.png" alt="archAIve AI banner" width="100%">
+</p>
 <h1 align="center">archAIve AI</h1>
 <p align="center">AI-powered Augmented Reality heritage exploration platform</p>
 
