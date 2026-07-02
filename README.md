@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/archaive-banner.svg" alt="archAIve AI — AI-powered AR heritage exploration platform" width="100%">
+  <img src=""C:\Users\Ashita\OneDrive\Pictures\Screenshots\Screenshot 2026-07-02 112940.png"" alt="archAIve AI — AI-powered AR heritage exploration platform" width="100%">
 </p>
 
 <h1 align="center">archAIve AI</h1>
