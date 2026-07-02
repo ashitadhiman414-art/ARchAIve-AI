@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src=""C:\Users\Ashita\OneDrive\Pictures\Screenshots\Screenshot 2026-07-02 112940.png"" alt="archAIve AI — AI-powered AR heritage exploration platform" width="100%">
-</p>
-
 <h1 align="center">archAIve AI</h1>
 <p align="center">AI-powered Augmented Reality heritage exploration platform</p>
 
